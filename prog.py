@@ -4,3 +4,5 @@ print(name)
 list = {1,2,3}
 
 print(list)
+for x in list:
+    print(x)
